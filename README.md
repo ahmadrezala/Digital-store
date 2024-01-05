@@ -1,3 +1,10 @@
+categories
+
+https://github.com/ahmadrezala/Digital-store/assets/141368982/e19709a0-238a-418d-bbb6-713093528c11
+
+
+
+
 add to cart and vartiation
 
 
