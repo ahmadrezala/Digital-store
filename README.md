@@ -1,3 +1,8 @@
+search products
+
+https://github.com/ahmadrezala/Digital-store/assets/141368982/1b091aec-d46f-4b40-8bb7-a82509d28392
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
