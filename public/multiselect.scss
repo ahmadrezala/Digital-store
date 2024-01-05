@@ -1,0 +1,7 @@
+@use "react-widgets/styles.scss" with (
+  $input-height: 1em,
+  // Most component variables are forwarded with a namespace
+  $list-selected-bg: #080909,
+  $input-height: 5em
+);
+
