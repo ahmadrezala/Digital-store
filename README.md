@@ -1,3 +1,8 @@
+add to cart and vartiation
+https://github.com/ahmadrezala/Digital-store/assets/141368982/2b6565ea-54f7-44c9-a68f-4ee20a53df16
+
+
+
 search products
 
 https://github.com/ahmadrezala/Digital-store/assets/141368982/1b091aec-d46f-4b40-8bb7-a82509d28392
