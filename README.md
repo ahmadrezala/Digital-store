@@ -1,5 +1,7 @@
 add to cart and vartiation
-https://github.com/ahmadrezala/Digital-store/assets/141368982/2b6565ea-54f7-44c9-a68f-4ee20a53df16
+
+
+https://github.com/ahmadrezala/Digital-store/assets/141368982/37777df1-5823-47b6-b21b-c071cf7bf402
 
 
 
