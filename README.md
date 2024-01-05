@@ -1,3 +1,10 @@
+pagination and Question from the admin
+
+
+https://github.com/ahmadrezala/Digital-store/assets/141368982/68abfd69-18ca-4157-9885-974ea65c0561
+
+
+
 categories
 
 https://github.com/ahmadrezala/Digital-store/assets/141368982/e19709a0-238a-418d-bbb6-713093528c11
